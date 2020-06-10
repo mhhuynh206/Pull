@@ -9,3 +9,4 @@ def lone_sum(a, b, c):
         return 0
     else:
         return a+b+c
+You didn't pay me enough for this, i'm not fixing it!
